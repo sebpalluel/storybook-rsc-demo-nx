@@ -38,3 +38,6 @@ build-storybook.log
 
 
 .nx/cache
+
+# Next.js
+.next
