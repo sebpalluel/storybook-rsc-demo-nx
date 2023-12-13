@@ -1,0 +1,28 @@
+{
+  "targetDefaults": {
+    "dev": {
+      "cache": true
+    },
+    "build": {
+      "cache": true
+    },
+    "start": {
+      "cache": true
+    },
+    "lint": {
+      "cache": true
+    },
+    "storybook": {
+      "cache": true
+    },
+    "build-storybook": {
+      "cache": true
+    },
+    "chromatic": {
+      "cache": true
+    }
+  },
+  "affected": {
+    "defaultBase": "main"
+  }
+}
